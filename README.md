@@ -12,7 +12,11 @@ This project is purely implemented for the task tracking of a user.
 
 Technologies used are :
 
-Client :  React.js v18.2.0, Tailwind css v3.0, Grid layouts & Flex box 
+frontend :  React.js v18.2.0, Tailwind css v3.0, Grid layouts & Flex box, vite bundler
+
+backend : pyhton3, FastAPI, uvicorn
+
+DataBase : Mysql v8.0, Mysql workbench
 
 
 # Published URL
