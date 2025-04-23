@@ -1,0 +1,17 @@
+# Ignore Python backend venv and cache
+backend/__pycache__/
+backend/bin/
+backend/lib/
+*.py[cod]
+
+# Ignore Node frontend build and deps
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# Common ignores
+.DS_Store
+.env
+*.log
+.vscode/
+.idea/
