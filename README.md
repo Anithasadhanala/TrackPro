@@ -22,8 +22,12 @@ DataBase : Mysql v8.0, Mysql workbench
 # Published URL
 
 ```
-https://anithasaiportfolio.netlify.app/
+https://tract-pro-frontend-reactjs.onrender.com/
+```
 
+# Schema documentation
+```
+https://docs.google.com/document/d/1BmoPjrhaUrvK3Dps3DCZL4eVmzvpQ2ciqGd8xbg1IZ0/edit?usp=sharing
 ```
 
 ## fork this repository
